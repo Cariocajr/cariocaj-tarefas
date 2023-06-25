@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    cor q fica dps de clicar no texto?-->
+    <color name="purple_200">#FFBB86FC</color>
+
+<!--    botao e barra da carioca-->
+    <color name="purple_500">#FF6200EE</color>
+
+    <!--    cor da barra superior-->
+    <color name="purple_700">#FF3700B3</color>
+
+<!--    texto selecionado-->
+    <color name="teal_200">#D31FBBD6</color>
+
+<!--   n sei -->
+    <color name="teal_700">#FF018786</color>
+
+<!--   tb n sei -->
+    <color name="black">#FF000000</color>
+
+<!--    texto dos botao-->
+    <color name="white">#FFFFFFFF</color>
+
+
+<!--    gradient background-->
+    <color name="start_color">#E216BF</color>
+    <color name="mid_color">#9816D2</color>
+    <color name="end_color">#4E16E6</color>
+
+</resources>
